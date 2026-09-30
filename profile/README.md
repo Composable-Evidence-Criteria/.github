@@ -1,4 +1,4 @@
-# Recomputable Evidence
+# Composable Evidence Criteria
 
 ### Short Description
 A shared test bench for checking whether separate specifications for AI agent evidence still hold up when they are used together.
